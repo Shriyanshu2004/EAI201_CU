@@ -1,0 +1,22 @@
+{
+  "base_path": "/mnt/data/fifa_project_starter",
+  "created_files": [
+    "README.txt",
+    "streamlit_app.py",
+    "train_log.txt",
+    "data/teams.csv",
+    "data/qualifiers.csv",
+    "data/fifa_top100.csv",
+    "data/wc_appearances_last5.csv",
+    "data/matches.csv",
+    "data/features.csv",
+    "models/rf_finalist.pkl",
+    "models/lr_finalist.pkl",
+    "src/etl.py",
+    "src/features.py",
+    "src/train.py",
+    "src/predict.py",
+    "src/cli.py"
+  ],
+  "train_log_snippet": "rf: AUC mean=0.6368, F1 mean=0.0000\nlr: AUC mean=0.8042, F1 mean=0.0000\nModels trained and saved to models/\n\n"
+}

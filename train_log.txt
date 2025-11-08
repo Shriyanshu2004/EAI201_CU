@@ -1,0 +1,4 @@
+rf: AUC mean=0.6368, F1 mean=0.0000
+lr: AUC mean=0.8042, F1 mean=0.0000
+Models trained and saved to models/
+
